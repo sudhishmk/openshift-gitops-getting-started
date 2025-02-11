@@ -1,4 +1,4 @@
-# Getting Started with OpenShift GitOps Test 1 test 2 test 3 test 4 test 5 test 6 test 7
+# Getting Started with OpenShift GitOps Test 1 test 2 test 3 test 4 test 5 test 6 test 7 test 8
 
 OpenShift GitOps is an add-on on OpenShift which provides Argo CD and other tooling to enable teams to implement GitOps workflows for cluster configuration and application delivery. OpenShift GitOps provides [Argo CD](https://argo-cd.readthedocs.io/en/stable/) as the core of the GitOps workflow and [GitOps Application Manager CLI](https://github.com/redhat-developer/kam) in order to help developers bootstrap a GitOps workflow for delivering applications.
 
